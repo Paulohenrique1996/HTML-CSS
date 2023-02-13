@@ -1,3 +1,3 @@
 <?php
 
-echo"Hello word\n";
+    echo"<h1>Hello word </h1>";
