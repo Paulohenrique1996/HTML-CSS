@@ -19,8 +19,33 @@
    text-align: center;
  }
 
- menu{
-   display: block;
+ span#menu{
+  background-color: rgb(83, 83, 83);
+  color: white;
+  display: block;
+  text-align: center;
+ }
+
+ span#menu:hover{
+  background-color:white;
+  color: black;
+  cursor: pointer;
+ }
+
+ span#closet{
+  background-color: rgb(83, 83, 83);
+  color: white;
+  display: none;
+  text-align: center;
+ }
+
+ span#closet:hover{
+  background-color:white;
+  color: black;
+  cursor: pointer;
+ }
+ menu#itens{
+   display: none;
  }
 
  menu > ul{
