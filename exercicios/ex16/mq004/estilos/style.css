@@ -24,6 +24,7 @@
   color: white;
   display: block;
   text-align: center;
+  padding: 10px;
  }
 
  span#menu:hover{
@@ -37,6 +38,7 @@
   color: white;
   display: none;
   text-align: center;
+  padding: 10px;
  }
 
  span#closet:hover{
