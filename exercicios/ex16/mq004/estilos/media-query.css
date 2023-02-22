@@ -29,4 +29,8 @@ grandes telas: acima de 1200px
     menu a{
         padding: 5px 35px;
     }
+
+    main{
+        width: 768px;
+    }
 }
